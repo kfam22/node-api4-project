@@ -17,7 +17,7 @@ Your assignment page on Canvas should contain instructions for submitting this p
   - Add Eslint to the project executing `npx eslint --init`
   - Edit the `package.json` file to add `"start"` and `"server"` scripts
   - Install `express`, `dotenv`, `cors`
-  - Add support for environment variables using an `.env` file and the dotenv library, providing fallbacks in the code
+  - Add support for environment variables using an `.env` file and the `dotenv` library, providing fallbacks in the code
   - Flesh out the API:
 
     | Method | URL           | Description                                                                                         |
